@@ -6,8 +6,8 @@
 
 # ロゴ
 
-<img src="https://github.com/naichilab/naichi-logo/blob/master/naichi2.png?raw=true" width="320px"/>
-<img src="https://github.com/naichilab/naichi-logo/blob/master/naichi1.png?raw=true" width="320px"/>
+<img src="https://github.com/naichilab/naichi-logo/blob/master/export/3a.png?raw=true" width="320px"/>
+<img src="https://github.com/naichilab/naichi-logo/blob/master/export/4a.png?raw=true" width="320px"/>
 
 # 著作権表記
 
